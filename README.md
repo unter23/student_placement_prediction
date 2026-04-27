@@ -16,3 +16,5 @@ Install dependencies: pip install -r requirements.txt
 Train model: python train.py
 
 Run app: streamlit run app.py
+
+https://studentplacementprediction-ibutqbtv8neu92dqcrjmjn.streamlit.app/
